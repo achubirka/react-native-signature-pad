@@ -28,7 +28,8 @@
   "homepage": "https://github.com/DispatcherInc/react-native-signature-pad#readme",
   "peerDependencies": {
     "react": "^18.0.0",
-    "react-native": "^0.71.0"
+    "react-native": "^0.71.0",
+    "react-native-webview": "13.8.6"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
